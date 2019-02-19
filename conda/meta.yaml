@@ -1,7 +1,7 @@
 # Conda package metadata for IEL
 
 package:
-  name: Iel
+  name: ETM
   version: "0.1"
 
 build:
